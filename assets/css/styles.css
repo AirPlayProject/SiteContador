@@ -1,0 +1,66 @@
+body
+{
+	background-image: image('assets/images/fosco.png');: 
+	background-size: 100% 100%;
+	moz-background-size: 100% 100%;
+	o-background-size: 100% 100%;
+	webkit-background-size: 100% 100%;
+}
+html, body
+{
+	height: 100%;
+}
+footer
+{
+	position: static;
+	width: 100%;
+}
+b
+{
+	color: #FF0000;
+}
+h1
+{
+	color: #000;
+	font-family: 'Open Sans', serif;
+	font-size: 30px;
+	margin: 5px 0;
+}
+h2
+{
+	font-family: 'Dosis', serif;
+	font-weight: 900;
+	margin: 5px 0;
+	padding-top: 15px;
+}
+ul li.separador
+{
+	border-top: 1px solid #000;
+	list-style-type: none;
+	margin-left: auto;
+	margin-right: auto;
+	width: 60%;
+}
+p#sitePrincipal
+{
+	font-family: 'Dosis',serif;
+	color: #000;
+	font-size: 50px;
+	font-weight: 600;
+	padding-bottom: 20px;
+}
+img#icone
+{
+	margin-top: 32px;
+}
+.inline
+{
+	padding: 0;
+	text-align: center;
+}
+.inline li
+{
+	display: inline-block;
+	font-size: 26px;
+	margin: 25px;
+}

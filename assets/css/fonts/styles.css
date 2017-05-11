@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:100,100i,300,300i,400,400i,700,700i,900,900i');
+@import url('https://fonts.googleapis.com/css?family=PT+Sans:400,400i,700,700i');
+@font-face {
+    font-family: 'leelawadeeregular';
+    src: url('leelawad-webfont.woff2') format('woff2'),
+         url('leelawad-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'dosisbold';
+    src: url('dosis-bold-webfont.woff2') format('woff2'),
+         url('dosis-bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'dosisregular';
+    src: url('dosis-regular-webfont.woff2') format('woff2'),
+         url('dosis-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+@font-face {
+    font-family: 'bebas_neueregulars';
+    src: url('bebasneue-webfont.woff2') format('woff2'),
+         url('bebasneue-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'bebas_neuebold';
+    src: url('bebasneue_bold-webfont.woff2') format('woff2'),
+         url('bebasneue_bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'bebas_neueregular';
+    src: url('bebasneue_regular-webfont.woff2') format('woff2'),
+         url('bebasneue_regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'arialregular';
+    src: url('arial-webfont.woff2') format('woff2'),
+         url('arial-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
