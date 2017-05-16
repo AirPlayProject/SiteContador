@@ -32,11 +32,11 @@ section{
     animation: fadeInDown 0.8s linear;
 }*/
 img#icone, h1, h2, h3, h4, h5, h6{
-    -webkit-animation: fadeInUp 0.8s linear;
-    -moz-animation: fadeInUp 0.8s linear;
-    animation: fadeInUp 0.8s linear;
+    -webkit-animation: fadeInUp 1s linear;
+    -moz-animation: fadeInUp 1s linear;
+    animation: fadeInUp 1s linear;
 }
-img#home{
+img#home, p#sitePrincipal{
     -webkit-animation: zoomIn 1s linear;
     -moz-animation: zoomIn 1s linear;
     animation: zoomIn 1s linear;
