@@ -9,8 +9,6 @@
 * @project saver
 * @version 1.0
 * @package layout
-* @author Mateus Carvalho
-* @copyright 2016 AW5 DIGITAL.
 *
 *
 *
@@ -28,12 +26,21 @@ html, body {
 section{
     padding: 25px 0;
 }
-h1, h2, h3, h4, h5, h6{
+/*h1, h2, h3, h4, h5, h6{
     -webkit-animation: fadeInDown 0.8s linear;
     -moz-animation: fadeInDown 0.8s linear;
     animation: fadeInDown 0.8s linear;
+}*/
+img#icone, h1, h2, h3, h4, h5, h6{
+    -webkit-animation: fadeInUp 0.8s linear;
+    -moz-animation: fadeInUp 0.8s linear;
+    animation: fadeInUp 0.8s linear;
 }
-
+img#home{
+    -webkit-animation: zoomIn 1s linear;
+    -moz-animation: zoomIn 1s linear;
+    animation: zoomIn 1s linear;
+}
 .uppercase{
     text-transform: uppercase;
 }
