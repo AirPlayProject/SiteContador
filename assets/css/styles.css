@@ -1,18 +1,33 @@
-body
-{
-	background-image: image('assets/images/fosco.png');: 
-	background-size: 100% 100%;
-	moz-background-size: 100% 100%;
-	o-background-size: 100% 100%;
-	webkit-background-size: 100% 100%;
-}
+/**
+* saver
+*
+*
+* This style sheet describes the
+* structure and the main components
+* about saver interface
+*
+* @project saver
+* @version 1.0
+* @package layout
+* @Copyright AirPlay Project© 2017
+*
+*
+*/
+/* =============================================================================
+  Global Structure
+============================================================================= */
+
+/* =======================
+  General Config
+======================= */
 html, body
 {
 	height: 100%;
+	background-image: url('fosco.png');
 }
 footer
 {
-	position: static;
+	position: relative;
 	width: 100%;
 }
 b
