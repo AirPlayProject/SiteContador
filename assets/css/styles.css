@@ -47,6 +47,8 @@ p#sitePrincipal
 img#icone
 {
 	margin-top: 32px;
+	height: 40px;
+	width: 40px;
 }
 .inline
 {
