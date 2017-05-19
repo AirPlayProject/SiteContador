@@ -1,65 +1,45 @@
-/**
-* saver
-*
-*
-* This style sheet describes the
-* structure and the main components
-* about saver interface
-*
-* @project saver
-* @version 1.0
-* @package layout
-* @Copyright AirPlay Project© 2017
-*
-*
-*/
-/* =============================================================================
-  Global Structure
-============================================================================= */
-
-/* =======================
-  General Config
-======================= */
-html, body
+body
 {
-	height: 100%;
-	background-image: url('fosco.png');
+	background-color: #363636;
 }
 footer
 {
+	color: #FFF;
 	position: relative;
 	width: 100%;
 }
 b
 {
-	color: #FF0000;
+	color: #000;
 }
 h1
 {
-	color: #000;
+	color: #FFF;
 	font-family: 'Open Sans', serif;
 	font-size: 30px;
 	margin: 5px 0;
 }
 h2
 {
+	color: #FFF;
 	font-family: 'Dosis', serif;
 	font-weight: 900;
 	margin: 5px 0;
 	padding-top: 15px;
 }
-ul li.separador
+/*ul li.separador
 {
-	border-top: 1px solid #000;
+	border-top: 0.01px solid #FFF;
 	list-style-type: none;
 	margin-left: auto;
 	margin-right: auto;
-	width: 60%;
+	width: 40%;
 }
+*/
 p#sitePrincipal
 {
 	font-family: 'Dosis',serif;
-	color: #000;
+	color: #FFF;
 	font-size: 50px;
 	font-weight: 600;
 	padding-bottom: 20px;
